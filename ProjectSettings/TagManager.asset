@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Ground
+  - Lemon
+  - Cherry
+  - Banana
+  - Apple
+  - Strawberry
+  - Watermelon
+  - Pineapple
+  - Crate
   layers:
   - Default
   - TransparentFX
@@ -11,7 +21,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Fruits
   - 
   - 
   - 
@@ -38,6 +48,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sky
+    uniqueID: 2781883459
+    locked: 0
+  - name: Background
+    uniqueID: 1185734857
+    locked: 0
+  - name: House
+    uniqueID: 3406860195
+    locked: 0
+  - name: Tree
+    uniqueID: 910274845
+    locked: 0
+  - name: Ground
+    uniqueID: 3669518973
+    locked: 0
+  - name: Grass
+    uniqueID: 74403027
+    locked: 0
+  - name: Crate
+    uniqueID: 3445494343
+    locked: 0
+  - name: Fruits
+    uniqueID: 840715347
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
